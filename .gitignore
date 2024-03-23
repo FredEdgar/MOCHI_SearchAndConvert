@@ -159,3 +159,7 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 inputs.ini
+build/exe.win-amd64-3.11/convert_mochi_tkinter.exe
+build/exe.win-amd64-3.11/frozen_application_license.txt
+build/exe.win-amd64-3.11/python3.dll
+build/exe.win-amd64-3.11/python311.dll
